@@ -5,6 +5,8 @@
 Laravel:
 1) Clone repo
 2) Run command: composer install
+3) Create .env file from env.example
+4) Run command: php artisan key:generate
 
 VUE:
 1) Run command: npm install
